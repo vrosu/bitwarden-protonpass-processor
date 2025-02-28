@@ -7,7 +7,7 @@ The approach chosen in this program is to add in the Notes section one line per 
 It was tested only with custom fields of type Text.
 
 ## Usage:
-1. Modify the *str_BitwardenExportFile* path to point to your Bitwarden export file
+1. Modify the *str_BitwardenExportFile* path in Program.cs to point to your Bitwarden export file
 2. Run the program
   
 ## Requirements:
